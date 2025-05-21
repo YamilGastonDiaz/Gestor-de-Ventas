@@ -29,6 +29,6 @@ El sistema permite administrar diferentes áreas de la empresa a través de un m
 
 ##  Captura
 
-![labo3](https://github.com/user-attachments/assets/41ae7e3d-2a6f-4fcf-91b7-f4eab974ff18)
+![image](https://github.com/user-attachments/assets/41ae7e3d-2a6f-4fcf-91b7-f4eab974ff18)
 
 ---
